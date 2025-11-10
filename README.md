@@ -33,7 +33,7 @@ To run the experiments, simply execute:
 
 ```bash
 cd src
-python main.py
+python run_otc.py  /run_alpha.py
 ```
 
 Make sure all dependencies are installed and the dataset paths are properly configured in the code or via command-line arguments (if supported).
